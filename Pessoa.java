@@ -4,6 +4,8 @@ public class Pessoa extends Thread{
     private Recursos recursos;
     private boolean capacete;
     private boolean kart;
+    private int tempo;
+    private int id;
 
     public Pessoa(String nome, int idade, Recursos recursos){
         this.nome = nome;
@@ -11,6 +13,9 @@ public class Pessoa extends Thread{
         this.recursos = recursos;
         this.capacete = false;
         this.kart = false;
+        this.id = this.recursos.getPessoa();
+        recursos.putPessoa(id);
+        this.recursos.increasePessoa();
     }
 
     public String getNome(){
@@ -35,5 +40,6 @@ public class Pessoa extends Thread{
     public void run(){
         useCapacete();
         useKart();
+        this.recursos.countTime();
     }
 }

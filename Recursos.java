@@ -1,6 +1,11 @@
+import java.util.*;
+
 public class Recursos {
     private int capacetes;
+    private int nPessoas = 0;
     private int karts;
+    final private int day = 480;
+    private Map<Integer, Integer> pilotos = new HashMap<Integer, Integer>();
 
     public Recursos(int capacetes, int karts){
         this.capacetes = capacetes;
@@ -8,11 +13,35 @@ public class Recursos {
     }
     
     public void useCapacete(){
-        this.capacetes = 9;
+        --this.capacetes;
     }
 
     public void useKart(){
-        this.capacetes = 9;
+        --this.karts;
+    }
+
+    public void increasePessoa(){
+        ++this.nPessoas;
+    }
+
+    public int getPessoa(){
+        return this.nPessoas;
+    }
+
+    public void putPessoa(int id){
+        pilotos.put(id, 0);
+    }
+
+    public void countTime(){
+        pilotos.forEach((id, time) -> {
+            ++time;
+        });
+    }
+
+    public void print(){
+        pilotos.forEach((id, time) -> {
+            System.out.println("Piloto " + id + ":" +time);
+        });
     }
 
     public int getCapacetes(){
