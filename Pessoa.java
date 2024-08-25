@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class Pessoa extends Thread{
     private String nome;
     private int idade;
@@ -7,15 +9,14 @@ public class Pessoa extends Thread{
     private int tempo;
     private int id;
 
-    public Pessoa(String nome, int idade, Recursos recursos){
+    public Pessoa(String nome, Recursos recursos, int idade, int id){
+        this.tempo = this.getRandomInt(10, 60);
         this.nome = nome;
         this.idade = idade;
         this.recursos = recursos;
         this.capacete = false;
         this.kart = false;
-        this.id = this.recursos.getPessoa();
-        recursos.putPessoa(id);
-        this.recursos.increasePessoa();
+        this.id = id;
     }
 
     public String getNome(){
@@ -27,19 +28,53 @@ public class Pessoa extends Thread{
     }
 
     private void useCapacete(){
-        this.capacete = true;
-        recursos.useCapacete();
+        this.recursos.useCapacete();
+        if(this.recursos.getCapacetes() >= 0){
+            if(this.recursos.getCapacetes() < 0){
+                this.recursos.releaseCapacete();
+                return;
+            }
+            this.capacete = true;
+        }
     }
 
     private void useKart(){
-        this.capacete = true;
-        recursos.useKart();
+        this.recursos.useKart();
+        if(this.recursos.getKarts() >= 0){
+            if(this.recursos.getKarts() < 0){
+                this.recursos.releaseKart();
+                return;
+            }
+            this.capacete = true;
+        }
+    }
+
+    public int getTime(){
+        return this.tempo;
+    }
+
+    public void finishRun(){
+        this.recursos.releaseCapacete();
+        this.recursos.releaseKart();
     }
 
     @Override
     public void run(){
-        useCapacete();
-        useKart();
-        this.recursos.countTime();
+        while(this.capacete == false && this.kart == false){
+            if (this.idade < 18){
+                useCapacete();
+                useKart();
+            }
+            else{
+                useKart();
+                useCapacete();    
+            }
+        }
+        this.recursos.addPilot(this.id);
+    }
+
+    private int getRandomInt(int min, int max) {
+        Random random = new Random();
+        return random.nextInt(max - min) + min;
     }
 }
