@@ -16,7 +16,7 @@ public class Recursos{
     public Recursos(int capacetes, int karts, int day){
         this.capacetes = capacetes;
         this.karts = karts;
-        this.nPessoas= getRandomInt(80, 100);
+        this.nPessoas= getRandomInt(100, 150);
         this.pessoas = new Pessoa[nPessoas];
         this.pilotos = new HashMap<Integer, Tempo>();
         this.criancas14 = new ArrayList<Integer>();
@@ -45,7 +45,7 @@ public class Recursos{
 
     public void print(){
         pilotos.forEach((id, time) -> {
-            System.out.println("Piloto " + id + " de " + pessoas[id].getIdade() + " anos: " + time);
+            System.out.println("Piloto " + id + " de " + pessoas[id].getIdade() + " anos: " + time + " tempo comprado (" + pessoas[id].getTime() + ")");
         });
     }
 
@@ -76,7 +76,7 @@ public class Recursos{
         for (int i = 0; i < nPessoas; ++i){
             int idade = getRandomInt(10, 60);
             pessoas[i] = new Pessoa(""+i, this, idade, i);
-            pilotos.put(i, new Tempo(0));
+            pilotos.put(i, new Tempo(-1));
             if (idade <= 14){
                 criancas14.add(i);
             }
@@ -94,6 +94,9 @@ public class Recursos{
         for(tempo = 0; tempo <= day; ++tempo){
             addPilots();
             while(signal != 0){
+                System.out.println("tempo: " + tempo);
+                System.out.println("running size: " + running.size());
+                System.out.println("create: " + signal);
             }
             countTime();
             removePilots();
@@ -143,7 +146,8 @@ public class Recursos{
             }
         }
         while(signal != 0){
-            System.out.println("del: " + signal);
+            System.out.println("running size: " + running.size());
+            System.out.println("delete: " + signal);
         }
         for(int i = 0; i < removeList.size(); ++i){
             int temp = removeList.get(i);

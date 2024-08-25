@@ -23,29 +23,31 @@ public class Pessoa {
         return this.nome;
     }
 
+    public int geTime(){
+        return this.tempo;
+    }
+
     public int getIdade(){
         return this.idade;
     }
 
     private void useCapacete(){
-        this.recursos.useCapacete();
-        if(this.recursos.getCapacetes() >= 0){
-            if(this.recursos.getCapacetes() < 0){
-                this.recursos.releaseCapacete();
-                return;
-            }
+        if(this.recursos.getCapacetes() > 0){
+            this.recursos.useCapacete();
             this.capacete = true;
+        }
+        else{
+            this.recursos.releaseCapacete();
         }
     }
 
     private void useKart(){
-        this.recursos.useKart();
-        if(this.recursos.getKarts() >= 0){
-            if(this.recursos.getKarts() < 0){
-                this.recursos.releaseKart();
-                return;
-            }
+        if(this.recursos.getKarts() > 0){
+            this.recursos.useKart();
             this.capacete = true;
+        }
+        else{
+            this.recursos.releaseKart();
         }
     }
 
