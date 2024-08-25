@@ -11,17 +11,19 @@ public class Recursos{
     private ArrayList<Integer> outros;
     private ArrayList<Integer> running;
     private int tempo;
+    private int signal;
 
     public Recursos(int capacetes, int karts, int day){
         this.capacetes = capacetes;
         this.karts = karts;
-        this.nPessoas= getRandomInt(25,50);
+        this.nPessoas= getRandomInt(80, 100);
         this.pessoas = new Pessoa[nPessoas];
         this.pilotos = new HashMap<Integer, Tempo>();
         this.criancas14 = new ArrayList<Integer>();
         this.outros = new ArrayList<Integer>();
         this.day = day;
         this.tempo = 0;
+        this.signal = 0;
         this.running = new ArrayList<Integer>();
     }
     
@@ -50,6 +52,14 @@ public class Recursos{
     public int getCapacetes(){
         return this.capacetes;
     }
+    
+    public void a(){
+        ++this.signal;
+    }
+
+    public void b(){
+        --this.signal;
+    }
 
     public int getKarts(){
         return this.karts;
@@ -60,10 +70,6 @@ public class Recursos{
         Tempo temp = pilotos.get(id);
         temp.setTempoDeEntrada(tempo);
         pilotos.replace(id, temp);
-    }
-
-    public void removePilot(int id){
-        running.remove(running.indexOf(id));
     }
 
     public void run(){
@@ -86,15 +92,10 @@ public class Recursos{
 
     private void calculateDay(){
         for(tempo = 0; tempo <= day; ++tempo){
-            System.out.println(tempo);
-            synchronized (addPilots()){
-                try{
-                    wait();
-                }
-                catch(InterruptedException e)
+            addPilots();
+            while(signal != 0){
             }
             countTime();
-
             removePilots();
         }
     }
@@ -102,11 +103,20 @@ public class Recursos{
     private void addPilots(){
         for(int j = running.size(); j < 10; ++j){
             if(criancas14.size() > 0){
-                pessoas[(criancas14.get(0))].start();
+                a();
+                int temp = criancas14.get(0);
+                new Thread(() -> {
+                    pessoas[temp].startRun();
+                }).start();
+                
                 criancas14.remove(0);
             }
             else if (outros.size() > 0){
-                pessoas[(outros.get(0))].start();
+                a();
+                int temp = outros.get(0);
+                new Thread(() -> {
+                    pessoas[temp].startRun();
+                }).start();
                 outros.remove(0);
             }
         }
@@ -121,12 +131,23 @@ public class Recursos{
     }
 
     private void removePilots(){
+        ArrayList<Integer> removeList = new ArrayList<>();
         for (int j = running.size()-1; j > -1; --j){
             if(pilotos.get(running.get(j)).getTempoDeCorrida() >= pessoas[running.get(j)].getTime()){
-                System.out.println("A");
-                pessoas[running.get(j)].finishRun();
-                running.remove(j);
+                a();
+                int temp = running.get(j);
+                removeList.add(j);
+                new Thread(() -> {
+                    pessoas[temp].finishRun();
+                }).start();
             }
+        }
+        while(signal != 0){
+            System.out.println("del: " + signal);
+        }
+        for(int i = 0; i < removeList.size(); ++i){
+            int temp = removeList.get(i);
+            running.remove(temp);
         }
     }
 

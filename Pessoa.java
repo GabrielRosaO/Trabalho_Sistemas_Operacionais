@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Pessoa extends Thread{
+public class Pessoa {
     private String nome;
     private int idade;
     private Recursos recursos;
@@ -10,7 +10,7 @@ public class Pessoa extends Thread{
     private int id;
 
     public Pessoa(String nome, Recursos recursos, int idade, int id){
-        this.tempo = this.getRandomInt(10, 60);
+        this.tempo = this.getRandomInt(30, 60);
         this.nome = nome;
         this.idade = idade;
         this.recursos = recursos;
@@ -56,10 +56,10 @@ public class Pessoa extends Thread{
     public void finishRun(){
         this.recursos.releaseCapacete();
         this.recursos.releaseKart();
+        this.recursos.b();
     }
 
-    @Override
-    public void run(){
+    public void startRun(){
         while(this.capacete == false && this.kart == false){
             if (this.idade < 18){
                 useCapacete();
@@ -71,6 +71,7 @@ public class Pessoa extends Thread{
             }
         }
         this.recursos.addPilot(this.id);
+        this.recursos.b();
     }
 
     private int getRandomInt(int min, int max) {
