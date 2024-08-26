@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 public class Main{
     public static void main(String[] args) throws IOException{
         System.out.println("Hello");
-        Recursos r = new Recursos(10, 10, 480);
+        Kartodromo r = new Kartodromo(10, 10, 480);
         r.run();
         
         FileWriter arq = new FileWriter("C:/Users/Usuario/Documents/SO/Relatório.txt");

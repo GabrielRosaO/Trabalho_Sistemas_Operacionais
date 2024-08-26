@@ -3,19 +3,19 @@ import java.util.Random;
 public class Pessoa{
     private String nome;
     private int idade;
-    private Recursos recursos;
-    private boolean capacete;
-    private boolean kart;
+    private Kartodromo kartodromo;
+    private int capacete;
+    private int kart;
     private int tempo;
     private int id;
 
-    public Pessoa(String nome, Recursos recursos, int idade, int id){
-        this.tempo = this.getRandomInt(30, 60);
+    public Pessoa(String nome, Kartodromo recursos, int idade, int id){
+        this.tempo = this.getRandomInt(10, 30);
         this.nome = nome;
         this.idade = idade;
-        this.recursos = recursos;
-        this.capacete = false;
-        this.kart = false;
+        this.kartodromo = recursos;
+        this.capacete = -1;
+        this.kart = -1;
         this.id = id;
     }
 
@@ -32,22 +32,20 @@ public class Pessoa{
     }
 
     private void useCapacete(){
-        if(this.recursos.getCapacetes() > 0){
-            this.recursos.useCapacete();
-            this.capacete = true;
+        if(this.kartodromo.getCapacetes() > 0){
+            this.capacete = this.kartodromo.useCapacete();;
         }
         else{
-            this.recursos.releaseCapacete();
+            this.capacete = this.kartodromo.releaseCapacete(this.kart);
         }
     }
 
     private void useKart(){
-        if(this.recursos.getKarts() > 0){
-            this.recursos.useKart();
-            this.capacete = true;
+        if(this.kartodromo.getKarts() > 0){    
+            this.kart = this.kartodromo.useKart();;
         }
         else{
-            this.recursos.releaseKart();
+            this.kart = this.kartodromo.releaseKart(this.kart);
         }
     }
 
@@ -56,14 +54,12 @@ public class Pessoa{
     }
 
     public void finishRun(){
-        //System.out.println("Imprimido while pessoa");
-        this.recursos.releaseCapacete();
-        this.recursos.releaseKart();
-        //this.recursos.b();
+        this.capacete = this.kartodromo.releaseCapacete(this.kart);
+        this.kart = this.kartodromo.releaseKart(this.kart);
     }
 
     public void startRun(){
-        while(this.capacete == false && this.kart == false){
+        while(this.capacete == -1 && this.kart == -1){
             
             if (this.idade < 18){
                 useCapacete();
@@ -74,8 +70,7 @@ public class Pessoa{
                 useCapacete();    
             }
         }
-        this.recursos.addPilot(this.id);
-        //this.recursos.b();
+        this.kartodromo.addPilot(this.id);
     }
 
     private int getRandomInt(int min, int max) {

@@ -1,5 +1,6 @@
 public class Tempo {
     private int tempoDeCorrida;
+    private int tempoDeEspera;
     private int tempoDeEntrada;
     
     public Tempo(int tempoDeEntrada){
@@ -8,6 +9,14 @@ public class Tempo {
 
     public void setTempoDeCorrida(int tempo){
         this.tempoDeCorrida = tempo;
+    }
+
+    public void setTempoDeEspera(int tempo){
+        this.tempoDeEspera = tempo - tempoDeEntrada;
+    }
+
+    public int getTempoDeEspera(){
+        return tempoDeEspera;
     }
 
     public void setTempoDeEntrada(int tempo){
@@ -23,6 +32,6 @@ public class Tempo {
     }
     
     public String toString(){
-        return "inicio (" + tempoDeEntrada + ") fim (" + tempoDeCorrida + ")";
+        return "inicio (" + tempoDeEntrada + ") fim (" + tempoDeCorrida + ") tempo de espera (" + tempoDeEspera + ")";
     }
 }
