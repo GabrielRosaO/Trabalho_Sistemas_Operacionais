@@ -1,4 +1,7 @@
 import java.util.*;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 
 public class Kartodromo{
     final private int day;
@@ -61,27 +64,62 @@ public class Kartodromo{
         return -1;
     }
 
-    public void print(){
-        int totalClientes = pilotos.size();
-        int clientesNaoAtendidos = 0;
-        int tempoMedio = 0;
-        for(int i = 0; i < pilotos.size(); ++i){
-            if (pilotos.get(i).getTempoDeCorrida() < pessoas.get(i).geTime()){
-                ++clientesNaoAtendidos;
+    public void print() throws IOException{
+        System.getProperty("user.home");
+        
+        FileWriter arq = new FileWriter("C:\\Users\\Usuario\\Documents\\SO\\Trabalho_final_SO\\Relatório.txt");
+        try (PrintWriter gravarArq = new PrintWriter(arq)) {
+            int totalClientes = pilotos.size();
+            int clientesNaoAtendidos = totalClientsNotServed();
+            int tempoMedio = 0;
+
+            gravarArq.println("------------------RELATÓRIO DO DIA--------------------");
+            gravarArq.println("TOTAL DE CLIENTES ATENDIDOS:   "  + totalClientes);
+            gravarArq.println("  ");
+            gravarArq.println("CLIENTES ATENDIDOS: ");
+            int i = 0;
+            for(i = 0; i < pilotos.size()-clientesNaoAtendidos; ++i){
+                tempoMedio += pilotos.get(i).getTempoDeEspera();
+                gravarArq.println("Nome: " + pessoas.get(i).getNome() + "  " + "Idade: " + pessoas.get(i).getIdade() + "-> Tempo que ficou na pista:  " + pessoas.get(i).geTime() + " minutos");
+                //System.out.println("Piloto " + i + " de " + pessoas.get(i).getIdade() + " anos: " + pilotos.get(i) + " tempo comprado (" + pessoas.get(i).getTime() + ")");
             }
-            tempoMedio += pilotos.get(i).getTempoDeEspera();
-            System.out.println("Piloto " + i + " de " + pessoas.get(i).getIdade() + " anos: " + pilotos.get(i) + " tempo comprado (" + pessoas.get(i).getTime() + ")");
+            tempoMedio = tempoMedio / pilotos.size();
+
+            gravarArq.println(" ");
+            gravarArq.println("TOTAL DE CLIENTE QUE NÃO FORAM ATENDIDOS:   " + clientesNaoAtendidos);
+            gravarArq.println(" ");
+            gravarArq.println("CLIENTES NÂO ATENDIDOS: ");
+
+            for(int j = i; j < pilotos.size(); ++j){
+                gravarArq.println("Nome: " + pessoas.get(j).getNome() + "  " + "Idade: " + pessoas.get(j).getIdade() + "-> Tempo que iria ficar na pista:  " + pessoas.get(j).geTime() + " minutos");
+
+            }
+            gravarArq.println(" ");
+            //System.out.println("Total de clientes: " + totalClientes);
+            //System.out.println("Clientes nao atendidos: " + clientesNaoAtendidos);
+            gravarArq.println("TEMPO MÉDIO DE ESPERA : " + tempoMedio + " minutos");
+            //System.out.println("Tempo medio de espera: " + tempoMedio);
+
+            gravarArq.println("   ");
+            gravarArq.println("QUANTIDADE QUE CADA CAPACETE FOI UTILIZADO: ");
+            capacetes.forEach((id, time) -> {
+                gravarArq.println("Capacete " + id + " usado " + time);
+                //System.out.println("Capacete " + id + " usado " + time);
+            });
+
+            gravarArq.println("   ");
+            gravarArq.println("QUANTIDADE QUE CADA KART FOI UTILIZADO: ");
+            karts.forEach((id, time) -> {
+                gravarArq.println("Kart " + id + " usado " + time);
+                //System.out.println("Kart " + id + " usado " + time);
+            });
+
+
+            gravarArq.println("--------------------FIM RELATÓRIO------------------");
+            gravarArq.close();
         }
-        tempoMedio = tempoMedio / pilotos.size();
-        System.out.println("Total de clientes: " + totalClientes);
-        System.out.println("Clientes nao atendidos: " + clientesNaoAtendidos);
-        System.out.println("Tempo medio de espera: " + tempoMedio);
-        capacetes.forEach((id, time) -> {
-            System.out.println("Capacete " + id + " usado " + time);
-        });
-        karts.forEach((id, time) -> {
-            System.out.println("Kart " + id + " usado " + time);
-        });
+
+        arq.close();
     }
 
     public int getCapacetes(){
@@ -90,6 +128,16 @@ public class Kartodromo{
     
     public int getKarts(){
         return this.kartsLivres.size();
+    }
+
+    public int totalClientsNotServed(){
+        int clientesNaoAtendidos = 0;
+        for (int i = 0; i < pilotos.size(); ++i){
+            if (pilotos.get(i).getTempoDeCorrida() < pessoas.get(i).geTime()){
+                ++clientesNaoAtendidos;
+            }
+        }
+        return clientesNaoAtendidos;
     }
 
     public void addPilot(int id){
@@ -117,8 +165,11 @@ public class Kartodromo{
     
     public void run(){
         calculateDay();
-
-        print();
+        try{
+            print();
+        }catch (IOException error){
+            System.out.println("Não foi possível criar ou escrever no arquivo. Erro: " + error);;
+        }
     }
 
     private void calculateDay(){
