@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Pessoa {
+public class Pessoa{
     private String nome;
     private int idade;
     private Recursos recursos;
@@ -56,13 +56,15 @@ public class Pessoa {
     }
 
     public void finishRun(){
+        //System.out.println("Imprimido while pessoa");
         this.recursos.releaseCapacete();
         this.recursos.releaseKart();
-        this.recursos.b();
+        //this.recursos.b();
     }
 
     public void startRun(){
         while(this.capacete == false && this.kart == false){
+            
             if (this.idade < 18){
                 useCapacete();
                 useKart();
@@ -73,11 +75,12 @@ public class Pessoa {
             }
         }
         this.recursos.addPilot(this.id);
-        this.recursos.b();
+        //this.recursos.b();
     }
 
     private int getRandomInt(int min, int max) {
         Random random = new Random();
         return random.nextInt(max - min) + min;
     }
+
 }

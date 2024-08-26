@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.concurrent.Semaphore;
 
 public class Recursos{
     private int capacetes;
@@ -11,7 +12,8 @@ public class Recursos{
     private ArrayList<Integer> outros;
     private ArrayList<Integer> running;
     private int tempo;
-    private int signal;
+    //private int signal;
+    Semaphore semaforo = new Semaphore(10);
 
     public Recursos(int capacetes, int karts, int day){
         this.capacetes = capacetes;
@@ -23,24 +25,24 @@ public class Recursos{
         this.outros = new ArrayList<Integer>();
         this.day = day;
         this.tempo = 0;
-        this.signal = 0;
+        //this.signal = 0;
         this.running = new ArrayList<Integer>();
     }
     
     public void useCapacete(){
-        --this.capacetes;
+        this.capacetes--;
     }
 
     public void useKart(){
-        --this.karts;
+        this.karts--;
     }
 
     public void releaseKart(){
-        ++this.karts;
+        this.karts++;
     }
 
     public void releaseCapacete(){
-        ++this.capacetes;
+        this.capacetes++;
     }
 
     public void print(){
@@ -53,13 +55,13 @@ public class Recursos{
         return this.capacetes;
     }
     
-    public void a(){
-        ++this.signal;
+    /*public void a(){
+        this.signal++;
     }
 
     public void b(){
-        --this.signal;
-    }
+        this.signal--;
+    }*/
 
     public int getKarts(){
         return this.karts;
@@ -75,7 +77,7 @@ public class Recursos{
     public void run(){
         for (int i = 0; i < nPessoas; ++i){
             int idade = getRandomInt(10, 60);
-            pessoas[i] = new Pessoa(""+i, this, idade, i);
+            pessoas[i] = new Pessoa("" + i, this, idade, i);
             pilotos.put(i, new Tempo(-1));
             if (idade <= 14){
                 criancas14.add(i);
@@ -92,34 +94,48 @@ public class Recursos{
 
     private void calculateDay(){
         for(tempo = 0; tempo <= day; ++tempo){
+            try{
             addPilots();
-            while(signal != 0){
-                System.out.println("tempo: " + tempo);
-                System.out.println("running size: " + running.size());
-                System.out.println("create: " + signal);
+            }catch(InterruptedException error){
+                System.out.println("Deu merda mlk: " + error);
             }
+            /*while(signal != 0){
+
+                //System.out.println("tempo: " + tempo);
+                //System.out.println("running size: " + running.size());
+                //System.out.println("create: " + signal);
+            }*/
             countTime();
             removePilots();
         }
     }
 
-    private void addPilots(){
-        for(int j = running.size(); j < 10; ++j){
+    private void addPilots() throws InterruptedException {
+        for(int j = running.size(); j < 10; j++){
+            //a();
             if(criancas14.size() > 0){
-                a();
                 int temp = criancas14.get(0);
-                new Thread(() -> {
-                    pessoas[temp].startRun();
-                }).start();
+                Thread pessoaThread = new Thread(){
+                    @Override
+                    public void run(){
+                        pessoas[temp].startRun();
+                    }};
+                pessoaThread.start();
+                pessoaThread.join();
                 
                 criancas14.remove(0);
+
             }
             else if (outros.size() > 0){
-                a();
                 int temp = outros.get(0);
-                new Thread(() -> {
-                    pessoas[temp].startRun();
-                }).start();
+                Thread pessoaThread = new Thread(){
+                    @Override
+                    public void run(){
+                        pessoas[temp].startRun();
+                    }};
+                pessoaThread.start();
+                pessoaThread.join();
+                
                 outros.remove(0);
             }
         }
@@ -137,18 +153,17 @@ public class Recursos{
         ArrayList<Integer> removeList = new ArrayList<>();
         for (int j = running.size()-1; j > -1; --j){
             if(pilotos.get(running.get(j)).getTempoDeCorrida() >= pessoas[running.get(j)].getTime()){
-                a();
+                //a();
                 int temp = running.get(j);
                 removeList.add(j);
-                new Thread(() -> {
-                    pessoas[temp].finishRun();
-                }).start();
+                pessoas[temp].finishRun();
+                
             }
         }
-        while(signal != 0){
-            System.out.println("running size: " + running.size());
-            System.out.println("delete: " + signal);
-        }
+        /*while(signal != 0){
+            //System.out.println("running size: " + running.size());
+            //System.out.println("delete: " + signal);
+        }*/
         for(int i = 0; i < removeList.size(); ++i){
             int temp = removeList.get(i);
             running.remove(temp);
