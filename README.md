@@ -21,3 +21,5 @@ Criamos tres classes:
 
 
 Ao final é gerado um arquivo "Relatório.txt" que armazena as informações de todo o período de 8 horas de funcionamento do dia.
+
+Para executar basta apenas executar a classe **Main.java**.
