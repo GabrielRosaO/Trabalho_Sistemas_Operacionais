@@ -209,7 +209,7 @@ public class Kartodromo{
     public void print() throws IOException{
         System.getProperty("user.home");
         
-        FileWriter arq = new FileWriter("C:\\Users\\Usuario\\Documents\\SO\\Trabalho_final_SO\\Relatório.txt");
+        FileWriter arq = new FileWriter("Relatório.txt");
         try (PrintWriter gravarArq = new PrintWriter(arq)) {
             int totalClientes = pilotos.size();
             int clientesNaoAtendidos = totalClientsNotServed();
