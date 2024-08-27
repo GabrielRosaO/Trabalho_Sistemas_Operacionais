@@ -2,311 +2,311 @@
 TOTAL DE CLIENTES ATENDIDOS:   277
   
 CLIENTES ATENDIDOS: 
-Nome: 0  Idade: 19-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  0 minutos
-Nome: 1  Idade: 13-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  0 minutos
-Nome: 2  Idade: 37-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  0 minutos
-Nome: 3  Idade: 20-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  0 minutos
-Nome: 4  Idade: 41-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  0 minutos
-Nome: 5  Idade: 52-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  0 minutos
-Nome: 6  Idade: 25-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  0 minutos
-Nome: 7  Idade: 24-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  0 minutos
-Nome: 8  Idade: 21-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  0 minutos
-Nome: 9  Idade: 34-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  0 minutos
-Nome: 10  Idade: 33-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  1 minutos
-Nome: 11  Idade: 23-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  2 minutos
-Nome: 12  Idade: 18-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  3 minutos
-Nome: 13  Idade: 54-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  0 minutos
-Nome: 14  Idade: 22-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  4 minutos
-Nome: 15  Idade: 20-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  12 minutos
-Nome: 16  Idade: 47-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  10 minutos
-Nome: 17  Idade: 42-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  13 minutos
-Nome: 18  Idade: 54-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  14 minutos
-Nome: 19  Idade: 10-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  3 minutos
-Nome: 20  Idade: 11-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  0 minutos
-Nome: 21  Idade: 40-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  10 minutos
-Nome: 22  Idade: 48-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  18 minutos
-Nome: 23  Idade: 28-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  13 minutos
-Nome: 24  Idade: 11-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  0 minutos
-Nome: 25  Idade: 27-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  14 minutos
-Nome: 26  Idade: 23-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  15 minutos
-Nome: 27  Idade: 49-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  10 minutos
-Nome: 28  Idade: 44-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  16 minutos
-Nome: 29  Idade: 51-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  12 minutos
-Nome: 30  Idade: 17-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  13 minutos
-Nome: 31  Idade: 15-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  9 minutos
-Nome: 32  Idade: 19-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  9 minutos
-Nome: 33  Idade: 41-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  11 minutos
-Nome: 34  Idade: 34-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  7 minutos
-Nome: 35  Idade: 16-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  9 minutos
-Nome: 36  Idade: 42-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  16 minutos
-Nome: 37  Idade: 40-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  18 minutos
-Nome: 38  Idade: 27-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  17 minutos
-Nome: 39  Idade: 45-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  18 minutos
-Nome: 40  Idade: 58-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  19 minutos
-Nome: 41  Idade: 54-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  20 minutos
-Nome: 42  Idade: 41-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  19 minutos
-Nome: 43  Idade: 59-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  23 minutos
-Nome: 44  Idade: 40-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  24 minutos
-Nome: 45  Idade: 34-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  19 minutos
-Nome: 46  Idade: 31-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  20 minutos
-Nome: 47  Idade: 12-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  2 minutos
-Nome: 48  Idade: 55-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  17 minutos
-Nome: 49  Idade: 36-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  18 minutos
-Nome: 50  Idade: 24-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  26 minutos
-Nome: 51  Idade: 37-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  21 minutos
-Nome: 52  Idade: 32-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  24 minutos
-Nome: 53  Idade: 47-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  25 minutos
-Nome: 54  Idade: 45-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  21 minutos
-Nome: 55  Idade: 20-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  27 minutos
-Nome: 56  Idade: 31-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  22 minutos
-Nome: 57  Idade: 55-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  24 minutos
-Nome: 58  Idade: 40-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  25 minutos
-Nome: 59  Idade: 28-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  21 minutos
-Nome: 60  Idade: 31-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  21 minutos
-Nome: 61  Idade: 47-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  17 minutos
-Nome: 62  Idade: 58-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  23 minutos
-Nome: 63  Idade: 38-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  25 minutos
-Nome: 64  Idade: 52-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  27 minutos
-Nome: 65  Idade: 45-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  24 minutos
-Nome: 66  Idade: 42-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  25 minutos
-Nome: 67  Idade: 34-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  26 minutos
-Nome: 68  Idade: 22-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  32 minutos
-Nome: 69  Idade: 24-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  28 minutos
-Nome: 70  Idade: 51-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  28 minutos
-Nome: 71  Idade: 56-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  24 minutos
-Nome: 72  Idade: 32-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  25 minutos
-Nome: 73  Idade: 50-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  28 minutos
-Nome: 74  Idade: 53-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  36 minutos
-Nome: 75  Idade: 55-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  32 minutos
-Nome: 76  Idade: 21-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  32 minutos
-Nome: 77  Idade: 22-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  27 minutos
-Nome: 78  Idade: 18-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  30 minutos
-Nome: 79  Idade: 15-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  31 minutos
-Nome: 80  Idade: 48-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  27 minutos
-Nome: 81  Idade: 53-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  28 minutos
-Nome: 82  Idade: 29-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  35 minutos
-Nome: 83  Idade: 17-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  31 minutos
-Nome: 84  Idade: 38-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  32 minutos
-Nome: 85  Idade: 41-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  32 minutos
-Nome: 86  Idade: 48-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  28 minutos
-Nome: 87  Idade: 31-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  31 minutos
-Nome: 88  Idade: 49-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  30 minutos
-Nome: 89  Idade: 18-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  32 minutos
-Nome: 90  Idade: 35-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  35 minutos
-Nome: 91  Idade: 39-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  31 minutos
-Nome: 92  Idade: 46-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  34 minutos
-Nome: 93  Idade: 16-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  40 minutos
-Nome: 94  Idade: 34-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  36 minutos
-Nome: 95  Idade: 24-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  38 minutos
-Nome: 96  Idade: 39-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  34 minutos
-Nome: 97  Idade: 48-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  38 minutos
-Nome: 98  Idade: 45-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  34 minutos
-Nome: 99  Idade: 54-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  36 minutos
-Nome: 100  Idade: 50-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  34 minutos
-Nome: 101  Idade: 54-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  39 minutos
-Nome: 102  Idade: 50-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  34 minutos
-Nome: 103  Idade: 45-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  36 minutos
-Nome: 104  Idade: 41-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  37 minutos
-Nome: 105  Idade: 16-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  33 minutos
-Nome: 106  Idade: 21-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  38 minutos
-Nome: 107  Idade: 36-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  39 minutos
-Nome: 108  Idade: 31-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  37 minutos
-Nome: 109  Idade: 57-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  42 minutos
-Nome: 110  Idade: 26-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  38 minutos
-Nome: 111  Idade: 55-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  39 minutos
-Nome: 112  Idade: 22-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  41 minutos
-Nome: 113  Idade: 23-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  37 minutos
-Nome: 114  Idade: 46-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  39 minutos
-Nome: 115  Idade: 14-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  1 minutos
-Nome: 116  Idade: 50-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  35 minutos
-Nome: 117  Idade: 20-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  35 minutos
-Nome: 118  Idade: 27-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  30 minutos
-Nome: 119  Idade: 20-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  31 minutos
-Nome: 120  Idade: 34-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  33 minutos
-Nome: 121  Idade: 13-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  1 minutos
-Nome: 122  Idade: 26-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  29 minutos
-Nome: 123  Idade: 15-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  36 minutos
-Nome: 124  Idade: 26-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  37 minutos
-Nome: 125  Idade: 47-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  34 minutos
-Nome: 126  Idade: 51-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  35 minutos
-Nome: 127  Idade: 25-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  32 minutos
-Nome: 128  Idade: 25-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  32 minutos
-Nome: 129  Idade: 47-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  30 minutos
-Nome: 130  Idade: 18-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  35 minutos
-Nome: 131  Idade: 34-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  32 minutos
-Nome: 132  Idade: 45-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  33 minutos
-Nome: 133  Idade: 58-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  29 minutos
-Nome: 134  Idade: 58-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  33 minutos
-Nome: 135  Idade: 57-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  40 minutos
-Nome: 136  Idade: 34-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  41 minutos
-Nome: 137  Idade: 48-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  36 minutos
-Nome: 138  Idade: 50-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  37 minutos
-Nome: 139  Idade: 37-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  34 minutos
-Nome: 140  Idade: 34-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  36 minutos
-Nome: 141  Idade: 26-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  36 minutos
-Nome: 142  Idade: 38-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  32 minutos
-Nome: 143  Idade: 58-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  36 minutos
-Nome: 144  Idade: 48-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  39 minutos
-Nome: 145  Idade: 23-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  35 minutos
-Nome: 146  Idade: 17-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  36 minutos
-Nome: 147  Idade: 46-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  37 minutos
-Nome: 148  Idade: 20-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  39 minutos
-Nome: 149  Idade: 31-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  37 minutos
-Nome: 150  Idade: 30-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  41 minutos
-Nome: 151  Idade: 31-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  41 minutos
-Nome: 152  Idade: 51-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  36 minutos
-Nome: 153  Idade: 44-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  39 minutos
-Nome: 154  Idade: 58-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  40 minutos
-Nome: 155  Idade: 32-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  42 minutos
-Nome: 156  Idade: 52-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  37 minutos
-Nome: 157  Idade: 54-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  42 minutos
-Nome: 158  Idade: 48-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  44 minutos
-Nome: 159  Idade: 52-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  39 minutos
-Nome: 160  Idade: 30-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  41 minutos
-Nome: 161  Idade: 39-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  41 minutos
-Nome: 162  Idade: 40-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  43 minutos
-Nome: 163  Idade: 48-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  42 minutos
-Nome: 164  Idade: 30-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  44 minutos
-Nome: 165  Idade: 32-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  47 minutos
-Nome: 166  Idade: 58-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  50 minutos
-Nome: 167  Idade: 37-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  46 minutos
-Nome: 168  Idade: 34-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  50 minutos
-Nome: 169  Idade: 28-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  50 minutos
-Nome: 170  Idade: 51-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  47 minutos
-Nome: 171  Idade: 57-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  48 minutos
-Nome: 172  Idade: 16-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  49 minutos
-Nome: 173  Idade: 21-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  45 minutos
-Nome: 174  Idade: 52-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  46 minutos
-Nome: 175  Idade: 32-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  49 minutos
-Nome: 176  Idade: 29-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  48 minutos
-Nome: 177  Idade: 40-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  48 minutos
-Nome: 178  Idade: 27-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  53 minutos
-Nome: 179  Idade: 40-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  56 minutos
-Nome: 180  Idade: 57-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  59 minutos
-Nome: 181  Idade: 59-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  59 minutos
-Nome: 182  Idade: 45-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  57 minutos
-Nome: 183  Idade: 17-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  61 minutos
-Nome: 184  Idade: 10-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  1 minutos
-Nome: 185  Idade: 23-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  57 minutos
-Nome: 186  Idade: 32-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  57 minutos
-Nome: 187  Idade: 48-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  58 minutos
-Nome: 188  Idade: 56-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  53 minutos
-Nome: 189  Idade: 53-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  54 minutos
-Nome: 190  Idade: 10-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  5 minutos
-Nome: 191  Idade: 16-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  60 minutos
-Nome: 192  Idade: 57-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  56 minutos
-Nome: 193  Idade: 33-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  59 minutos
-Nome: 194  Idade: 35-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  60 minutos
-Nome: 195  Idade: 52-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  63 minutos
-Nome: 196  Idade: 57-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  59 minutos
-Nome: 197  Idade: 34-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  65 minutos
-Nome: 198  Idade: 28-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  66 minutos
-Nome: 199  Idade: 33-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  63 minutos
-Nome: 200  Idade: 43-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  64 minutos
-Nome: 201  Idade: 45-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  59 minutos
-Nome: 202  Idade: 55-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  59 minutos
-Nome: 203  Idade: 53-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  63 minutos
-Nome: 204  Idade: 17-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  62 minutos
-Nome: 205  Idade: 17-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  65 minutos
-Nome: 206  Idade: 50-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  63 minutos
-Nome: 207  Idade: 13-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  5 minutos
-Nome: 208  Idade: 23-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  65 minutos
-Nome: 209  Idade: 24-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  64 minutos
-Nome: 210  Idade: 12-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  3 minutos
-Nome: 211  Idade: 15-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  65 minutos
-Nome: 212  Idade: 34-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  65 minutos
-Nome: 213  Idade: 55-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  61 minutos
-Nome: 214  Idade: 26-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  65 minutos
-Nome: 215  Idade: 11-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  2 minutos
-Nome: 216  Idade: 50-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  62 minutos
-Nome: 217  Idade: 24-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  66 minutos
-Nome: 218  Idade: 51-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  63 minutos
-Nome: 219  Idade: 53-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  64 minutos
-Nome: 220  Idade: 56-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  64 minutos
-Nome: 221  Idade: 35-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  73 minutos
-Nome: 222  Idade: 50-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  68 minutos
-Nome: 223  Idade: 34-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  69 minutos
-Nome: 224  Idade: 37-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  69 minutos
-Nome: 225  Idade: 52-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  69 minutos
-Nome: 226  Idade: 35-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  66 minutos
-Nome: 227  Idade: 57-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  69 minutos
-Nome: 228  Idade: 19-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  79 minutos
-Nome: 229  Idade: 27-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  76 minutos
-Nome: 230  Idade: 35-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  78 minutos
-Nome: 231  Idade: 29-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  81 minutos
+Nome: 0  Idade: 24-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  0 minutos
+Nome: 1  Idade: 50-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  0 minutos
+Nome: 2  Idade: 12-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  0 minutos
+Nome: 3  Idade: 10-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  0 minutos
+Nome: 4  Idade: 18-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  0 minutos
+Nome: 5  Idade: 21-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  0 minutos
+Nome: 6  Idade: 38-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  0 minutos
+Nome: 7  Idade: 52-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  0 minutos
+Nome: 8  Idade: 52-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  0 minutos
+Nome: 9  Idade: 32-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  0 minutos
+Nome: 10  Idade: 27-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  0 minutos
+Nome: 11  Idade: 29-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  4 minutos
+Nome: 12  Idade: 25-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  5 minutos
+Nome: 13  Idade: 34-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  6 minutos
+Nome: 14  Idade: 31-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  6 minutos
+Nome: 15  Idade: 49-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  6 minutos
+Nome: 16  Idade: 26-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  7 minutos
+Nome: 17  Idade: 43-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  7 minutos
+Nome: 18  Idade: 52-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  9 minutos
+Nome: 19  Idade: 59-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  5 minutos
+Nome: 20  Idade: 34-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  13 minutos
+Nome: 21  Idade: 49-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  10 minutos
+Nome: 22  Idade: 24-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  10 minutos
+Nome: 23  Idade: 56-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  11 minutos
+Nome: 24  Idade: 20-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  11 minutos
+Nome: 25  Idade: 43-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  10 minutos
+Nome: 26  Idade: 10-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  1 minutos
+Nome: 27  Idade: 54-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  7 minutos
+Nome: 28  Idade: 59-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  9 minutos
+Nome: 29  Idade: 38-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  14 minutos
+Nome: 30  Idade: 32-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  10 minutos
+Nome: 31  Idade: 17-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  11 minutos
+Nome: 32  Idade: 44-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  6 minutos
+Nome: 33  Idade: 36-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  8 minutos
+Nome: 34  Idade: 13-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  2 minutos
+Nome: 35  Idade: 54-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  8 minutos
+Nome: 36  Idade: 22-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  4 minutos
+Nome: 37  Idade: 28-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  10 minutos
+Nome: 38  Idade: 40-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  15 minutos
+Nome: 39  Idade: 50-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  16 minutos
+Nome: 40  Idade: 55-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  14 minutos
+Nome: 41  Idade: 29-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  16 minutos
+Nome: 42  Idade: 47-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  18 minutos
+Nome: 43  Idade: 41-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  14 minutos
+Nome: 44  Idade: 23-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  18 minutos
+Nome: 45  Idade: 30-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  15 minutos
+Nome: 46  Idade: 41-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  23 minutos
+Nome: 47  Idade: 37-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  23 minutos
+Nome: 48  Idade: 51-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  23 minutos
+Nome: 49  Idade: 49-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  23 minutos
+Nome: 50  Idade: 48-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  27 minutos
+Nome: 51  Idade: 56-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  28 minutos
+Nome: 52  Idade: 20-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  25 minutos
+Nome: 53  Idade: 11-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  2 minutos
+Nome: 54  Idade: 30-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  29 minutos
+Nome: 55  Idade: 43-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  28 minutos
+Nome: 56  Idade: 15-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  29 minutos
+Nome: 57  Idade: 49-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  31 minutos
+Nome: 58  Idade: 37-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  26 minutos
+Nome: 59  Idade: 10-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  0 minutos
+Nome: 60  Idade: 41-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  28 minutos
+Nome: 61  Idade: 29-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  29 minutos
+Nome: 62  Idade: 17-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  28 minutos
+Nome: 63  Idade: 17-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  29 minutos
+Nome: 64  Idade: 44-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  32 minutos
+Nome: 65  Idade: 13-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  1 minutos
+Nome: 66  Idade: 57-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  28 minutos
+Nome: 67  Idade: 35-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  28 minutos
+Nome: 68  Idade: 40-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  26 minutos
+Nome: 69  Idade: 37-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  30 minutos
+Nome: 70  Idade: 45-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  27 minutos
+Nome: 71  Idade: 19-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  28 minutos
+Nome: 72  Idade: 45-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  30 minutos
+Nome: 73  Idade: 11-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  1 minutos
+Nome: 74  Idade: 50-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  28 minutos
+Nome: 75  Idade: 52-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  33 minutos
+Nome: 76  Idade: 15-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  30 minutos
+Nome: 77  Idade: 54-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  31 minutos
+Nome: 78  Idade: 28-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  27 minutos
+Nome: 79  Idade: 55-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  30 minutos
+Nome: 80  Idade: 59-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  34 minutos
+Nome: 81  Idade: 43-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  29 minutos
+Nome: 82  Idade: 35-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  30 minutos
+Nome: 83  Idade: 34-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  34 minutos
+Nome: 84  Idade: 37-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  29 minutos
+Nome: 85  Idade: 31-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  33 minutos
+Nome: 86  Idade: 53-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  35 minutos
+Nome: 87  Idade: 59-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  42 minutos
+Nome: 88  Idade: 33-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  38 minutos
+Nome: 89  Idade: 54-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  39 minutos
+Nome: 90  Idade: 44-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  39 minutos
+Nome: 91  Idade: 17-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  49 minutos
+Nome: 92  Idade: 26-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  44 minutos
+Nome: 93  Idade: 19-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  45 minutos
+Nome: 94  Idade: 24-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  45 minutos
+Nome: 95  Idade: 38-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  42 minutos
+Nome: 96  Idade: 51-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  50 minutos
+Nome: 97  Idade: 37-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  51 minutos
+Nome: 98  Idade: 20-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  48 minutos
+Nome: 99  Idade: 28-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  48 minutos
+Nome: 100  Idade: 12-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  0 minutos
+Nome: 101  Idade: 54-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  47 minutos
+Nome: 102  Idade: 43-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  49 minutos
+Nome: 103  Idade: 34-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  44 minutos
+Nome: 104  Idade: 35-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  45 minutos
+Nome: 105  Idade: 56-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  43 minutos
+Nome: 106  Idade: 56-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  44 minutos
+Nome: 107  Idade: 57-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  57 minutos
+Nome: 108  Idade: 52-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  58 minutos
+Nome: 109  Idade: 17-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  54 minutos
+Nome: 110  Idade: 14-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  1 minutos
+Nome: 111  Idade: 30-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  50 minutos
+Nome: 112  Idade: 49-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  56 minutos
+Nome: 113  Idade: 11-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  4 minutos
+Nome: 114  Idade: 10-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  2 minutos
+Nome: 115  Idade: 14-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  3 minutos
+Nome: 116  Idade: 40-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  46 minutos
+Nome: 117  Idade: 16-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  47 minutos
+Nome: 118  Idade: 20-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  46 minutos
+Nome: 119  Idade: 21-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  46 minutos
+Nome: 120  Idade: 57-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  42 minutos
+Nome: 121  Idade: 50-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  42 minutos
+Nome: 122  Idade: 59-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  43 minutos
+Nome: 123  Idade: 35-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  44 minutos
+Nome: 124  Idade: 53-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  43 minutos
+Nome: 125  Idade: 29-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  46 minutos
+Nome: 126  Idade: 49-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  46 minutos
+Nome: 127  Idade: 51-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  43 minutos
+Nome: 128  Idade: 53-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  44 minutos
+Nome: 129  Idade: 10-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  2 minutos
+Nome: 130  Idade: 39-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  42 minutos
+Nome: 131  Idade: 14-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  2 minutos
+Nome: 132  Idade: 25-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  43 minutos
+Nome: 133  Idade: 34-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  43 minutos
+Nome: 134  Idade: 57-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  44 minutos
+Nome: 135  Idade: 26-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  40 minutos
+Nome: 136  Idade: 59-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  40 minutos
+Nome: 137  Idade: 55-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  35 minutos
+Nome: 138  Idade: 18-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  42 minutos
+Nome: 139  Idade: 31-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  48 minutos
+Nome: 140  Idade: 36-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  45 minutos
+Nome: 141  Idade: 37-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  48 minutos
+Nome: 142  Idade: 37-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  54 minutos
+Nome: 143  Idade: 19-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  57 minutos
+Nome: 144  Idade: 43-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  53 minutos
+Nome: 145  Idade: 20-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  54 minutos
+Nome: 146  Idade: 30-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  51 minutos
+Nome: 147  Idade: 18-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  56 minutos
+Nome: 148  Idade: 46-> Tempo que ficou na pista:  14 minutos/Tempo de Espera:  58 minutos
+Nome: 149  Idade: 23-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  58 minutos
+Nome: 150  Idade: 34-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  59 minutos
+Nome: 151  Idade: 39-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  62 minutos
+Nome: 152  Idade: 22-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  60 minutos
+Nome: 153  Idade: 33-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  62 minutos
+Nome: 154  Idade: 19-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  63 minutos
+Nome: 155  Idade: 18-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  58 minutos
+Nome: 156  Idade: 46-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  59 minutos
+Nome: 157  Idade: 47-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  62 minutos
+Nome: 158  Idade: 22-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  63 minutos
+Nome: 159  Idade: 34-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  68 minutos
+Nome: 160  Idade: 13-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  0 minutos
+Nome: 161  Idade: 45-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  71 minutos
+Nome: 162  Idade: 13-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  2 minutos
+Nome: 163  Idade: 19-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  67 minutos
+Nome: 164  Idade: 43-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  68 minutos
+Nome: 165  Idade: 21-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  65 minutos
+Nome: 166  Idade: 46-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  68 minutos
+Nome: 167  Idade: 39-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  72 minutos
+Nome: 168  Idade: 11-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  0 minutos
+Nome: 169  Idade: 34-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  68 minutos
+Nome: 170  Idade: 11-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  2 minutos
+Nome: 171  Idade: 38-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  70 minutos
+Nome: 172  Idade: 53-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  70 minutos
+Nome: 173  Idade: 42-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  73 minutos
+Nome: 174  Idade: 14-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  2 minutos
+Nome: 175  Idade: 44-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  75 minutos
+Nome: 176  Idade: 33-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  71 minutos
+Nome: 177  Idade: 39-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  72 minutos
+Nome: 178  Idade: 34-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  67 minutos
+Nome: 179  Idade: 28-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  69 minutos
+Nome: 180  Idade: 49-> Tempo que ficou na pista:  19 minutos/Tempo de Espera:  70 minutos
+Nome: 181  Idade: 22-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  70 minutos
+Nome: 182  Idade: 52-> Tempo que ficou na pista:  10 minutos/Tempo de Espera:  71 minutos
+Nome: 183  Idade: 41-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  74 minutos
+Nome: 184  Idade: 38-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  71 minutos
+Nome: 185  Idade: 22-> Tempo que ficou na pista:  28 minutos/Tempo de Espera:  72 minutos
+Nome: 186  Idade: 12-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  0 minutos
+Nome: 187  Idade: 39-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  73 minutos
+Nome: 188  Idade: 56-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  71 minutos
+Nome: 189  Idade: 39-> Tempo que ficou na pista:  17 minutos/Tempo de Espera:  71 minutos
+Nome: 190  Idade: 48-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  73 minutos
+Nome: 191  Idade: 41-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  69 minutos
+Nome: 192  Idade: 14-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  0 minutos
+Nome: 193  Idade: 10-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  1 minutos
+Nome: 194  Idade: 26-> Tempo que ficou na pista:  25 minutos/Tempo de Espera:  69 minutos
+Nome: 195  Idade: 20-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  71 minutos
+Nome: 196  Idade: 52-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  74 minutos
+Nome: 197  Idade: 28-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  77 minutos
+Nome: 198  Idade: 57-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  73 minutos
+Nome: 199  Idade: 14-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  0 minutos
+Nome: 200  Idade: 17-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  80 minutos
+Nome: 201  Idade: 51-> Tempo que ficou na pista:  26 minutos/Tempo de Espera:  75 minutos
+Nome: 202  Idade: 34-> Tempo que ficou na pista:  12 minutos/Tempo de Espera:  78 minutos
+Nome: 203  Idade: 13-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  3 minutos
+Nome: 204  Idade: 36-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  75 minutos
+Nome: 205  Idade: 14-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  0 minutos
+Nome: 206  Idade: 20-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  79 minutos
+Nome: 207  Idade: 19-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  74 minutos
+Nome: 208  Idade: 42-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  76 minutos
+Nome: 209  Idade: 40-> Tempo que ficou na pista:  16 minutos/Tempo de Espera:  73 minutos
+Nome: 210  Idade: 53-> Tempo que ficou na pista:  18 minutos/Tempo de Espera:  74 minutos
+Nome: 211  Idade: 53-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  75 minutos
+Nome: 212  Idade: 34-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  71 minutos
+Nome: 213  Idade: 35-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  74 minutos
+Nome: 214  Idade: 31-> Tempo que ficou na pista:  29 minutos/Tempo de Espera:  77 minutos
+Nome: 215  Idade: 54-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  77 minutos
+Nome: 216  Idade: 31-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  78 minutos
+Nome: 217  Idade: 45-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  79 minutos
+Nome: 218  Idade: 19-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  82 minutos
+Nome: 219  Idade: 20-> Tempo que ficou na pista:  21 minutos/Tempo de Espera:  80 minutos
+Nome: 220  Idade: 24-> Tempo que ficou na pista:  13 minutos/Tempo de Espera:  81 minutos
+Nome: 221  Idade: 35-> Tempo que ficou na pista:  27 minutos/Tempo de Espera:  77 minutos
+Nome: 222  Idade: 31-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  77 minutos
+Nome: 223  Idade: 38-> Tempo que ficou na pista:  23 minutos/Tempo de Espera:  79 minutos
+Nome: 224  Idade: 55-> Tempo que ficou na pista:  11 minutos/Tempo de Espera:  83 minutos
+Nome: 225  Idade: 25-> Tempo que ficou na pista:  15 minutos/Tempo de Espera:  84 minutos
+Nome: 226  Idade: 58-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  85 minutos
+Nome: 227  Idade: 29-> Tempo que ficou na pista:  20 minutos/Tempo de Espera:  81 minutos
+Nome: 228  Idade: 59-> Tempo que ficou na pista:  22 minutos/Tempo de Espera:  85 minutos
+Nome: 229  Idade: 45-> Tempo que ficou na pista:  24 minutos/Tempo de Espera:  86 minutos
  
-TOTAL DE CLIENTE QUE NÃO FORAM ATENDIDOS:   45
+TOTAL DE CLIENTE QUE NÃO FORAM ATENDIDOS:   47
  
 CLIENTES NÂO ATENDIDOS: 
-Nome: 232  Idade: 38-> Tempo que iria ficar na pista:  21 minutos/Tempo de Espera:  77 minutos
-Nome: 233  Idade: 48-> Tempo que iria ficar na pista:  10 minutos/Tempo de Espera:  77 minutos
-Nome: 234  Idade: 28-> Tempo que iria ficar na pista:  20 minutos/Tempo de Espera:  77 minutos
-Nome: 235  Idade: 51-> Tempo que iria ficar na pista:  10 minutos/Tempo de Espera:  77 minutos
-Nome: 236  Idade: 17-> Tempo que iria ficar na pista:  10 minutos/Tempo de Espera:  77 minutos
-Nome: 237  Idade: 57-> Tempo que iria ficar na pista:  10 minutos/Tempo de Espera:  77 minutos
-Nome: 238  Idade: 31-> Tempo que iria ficar na pista:  13 minutos/Tempo de Espera:  77 minutos
-Nome: 239  Idade: 33-> Tempo que iria ficar na pista:  26 minutos/Tempo de Espera:  77 minutos
-Nome: 240  Idade: 58-> Tempo que iria ficar na pista:  19 minutos/Tempo de Espera:  77 minutos
-Nome: 241  Idade: 36-> Tempo que iria ficar na pista:  28 minutos/Tempo de Espera:  77 minutos
-Nome: 242  Idade: 41-> Tempo que iria ficar na pista:  28 minutos/Tempo de Espera:  77 minutos
-Nome: 243  Idade: 12-> Tempo que iria ficar na pista:  15 minutos/Tempo de Espera:  77 minutos
-Nome: 244  Idade: 38-> Tempo que iria ficar na pista:  21 minutos/Tempo de Espera:  77 minutos
-Nome: 245  Idade: 21-> Tempo que iria ficar na pista:  13 minutos/Tempo de Espera:  77 minutos
-Nome: 246  Idade: 53-> Tempo que iria ficar na pista:  28 minutos/Tempo de Espera:  77 minutos
-Nome: 247  Idade: 45-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  77 minutos
-Nome: 248  Idade: 52-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  77 minutos
-Nome: 249  Idade: 54-> Tempo que iria ficar na pista:  20 minutos/Tempo de Espera:  77 minutos
-Nome: 250  Idade: 46-> Tempo que iria ficar na pista:  12 minutos/Tempo de Espera:  77 minutos
-Nome: 251  Idade: 47-> Tempo que iria ficar na pista:  19 minutos/Tempo de Espera:  77 minutos
-Nome: 252  Idade: 16-> Tempo que iria ficar na pista:  10 minutos/Tempo de Espera:  77 minutos
-Nome: 253  Idade: 32-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  77 minutos
-Nome: 254  Idade: 11-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  77 minutos
-Nome: 255  Idade: 21-> Tempo que iria ficar na pista:  29 minutos/Tempo de Espera:  77 minutos
-Nome: 256  Idade: 13-> Tempo que iria ficar na pista:  26 minutos/Tempo de Espera:  77 minutos
-Nome: 257  Idade: 26-> Tempo que iria ficar na pista:  20 minutos/Tempo de Espera:  77 minutos
-Nome: 258  Idade: 48-> Tempo que iria ficar na pista:  25 minutos/Tempo de Espera:  77 minutos
-Nome: 259  Idade: 26-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  77 minutos
-Nome: 260  Idade: 58-> Tempo que iria ficar na pista:  17 minutos/Tempo de Espera:  77 minutos
-Nome: 261  Idade: 39-> Tempo que iria ficar na pista:  10 minutos/Tempo de Espera:  77 minutos
-Nome: 262  Idade: 42-> Tempo que iria ficar na pista:  24 minutos/Tempo de Espera:  77 minutos
-Nome: 263  Idade: 43-> Tempo que iria ficar na pista:  21 minutos/Tempo de Espera:  77 minutos
-Nome: 264  Idade: 54-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  77 minutos
-Nome: 265  Idade: 18-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  77 minutos
-Nome: 266  Idade: 54-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  77 minutos
-Nome: 267  Idade: 27-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  77 minutos
-Nome: 268  Idade: 40-> Tempo que iria ficar na pista:  17 minutos/Tempo de Espera:  77 minutos
-Nome: 269  Idade: 39-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  77 minutos
-Nome: 270  Idade: 28-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  77 minutos
-Nome: 271  Idade: 26-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  77 minutos
-Nome: 272  Idade: 32-> Tempo que iria ficar na pista:  28 minutos/Tempo de Espera:  77 minutos
-Nome: 273  Idade: 41-> Tempo que iria ficar na pista:  24 minutos/Tempo de Espera:  77 minutos
-Nome: 274  Idade: 18-> Tempo que iria ficar na pista:  13 minutos/Tempo de Espera:  77 minutos
-Nome: 275  Idade: 57-> Tempo que iria ficar na pista:  25 minutos/Tempo de Espera:  77 minutos
-Nome: 276  Idade: 34-> Tempo que iria ficar na pista:  26 minutos/Tempo de Espera:  77 minutos
+Nome: 230  Idade: 40-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  82 minutos
+Nome: 231  Idade: 21-> Tempo que iria ficar na pista:  23 minutos/Tempo de Espera:  82 minutos
+Nome: 232  Idade: 10-> Tempo que iria ficar na pista:  16 minutos/Tempo de Espera:  82 minutos
+Nome: 233  Idade: 18-> Tempo que iria ficar na pista:  22 minutos/Tempo de Espera:  82 minutos
+Nome: 234  Idade: 50-> Tempo que iria ficar na pista:  24 minutos/Tempo de Espera:  82 minutos
+Nome: 235  Idade: 49-> Tempo que iria ficar na pista:  23 minutos/Tempo de Espera:  82 minutos
+Nome: 236  Idade: 27-> Tempo que iria ficar na pista:  19 minutos/Tempo de Espera:  82 minutos
+Nome: 237  Idade: 40-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  82 minutos
+Nome: 238  Idade: 59-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  82 minutos
+Nome: 239  Idade: 11-> Tempo que iria ficar na pista:  23 minutos/Tempo de Espera:  82 minutos
+Nome: 240  Idade: 53-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  82 minutos
+Nome: 241  Idade: 59-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  82 minutos
+Nome: 242  Idade: 21-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  82 minutos
+Nome: 243  Idade: 44-> Tempo que iria ficar na pista:  17 minutos/Tempo de Espera:  82 minutos
+Nome: 244  Idade: 22-> Tempo que iria ficar na pista:  24 minutos/Tempo de Espera:  82 minutos
+Nome: 245  Idade: 43-> Tempo que iria ficar na pista:  11 minutos/Tempo de Espera:  82 minutos
+Nome: 246  Idade: 45-> Tempo que iria ficar na pista:  23 minutos/Tempo de Espera:  82 minutos
+Nome: 247  Idade: 35-> Tempo que iria ficar na pista:  29 minutos/Tempo de Espera:  82 minutos
+Nome: 248  Idade: 28-> Tempo que iria ficar na pista:  24 minutos/Tempo de Espera:  82 minutos
+Nome: 249  Idade: 15-> Tempo que iria ficar na pista:  17 minutos/Tempo de Espera:  82 minutos
+Nome: 250  Idade: 19-> Tempo que iria ficar na pista:  19 minutos/Tempo de Espera:  82 minutos
+Nome: 251  Idade: 56-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  82 minutos
+Nome: 252  Idade: 41-> Tempo que iria ficar na pista:  29 minutos/Tempo de Espera:  82 minutos
+Nome: 253  Idade: 25-> Tempo que iria ficar na pista:  16 minutos/Tempo de Espera:  82 minutos
+Nome: 254  Idade: 10-> Tempo que iria ficar na pista:  29 minutos/Tempo de Espera:  82 minutos
+Nome: 255  Idade: 38-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  82 minutos
+Nome: 256  Idade: 57-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  82 minutos
+Nome: 257  Idade: 55-> Tempo que iria ficar na pista:  22 minutos/Tempo de Espera:  82 minutos
+Nome: 258  Idade: 56-> Tempo que iria ficar na pista:  25 minutos/Tempo de Espera:  82 minutos
+Nome: 259  Idade: 57-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  82 minutos
+Nome: 260  Idade: 46-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  82 minutos
+Nome: 261  Idade: 33-> Tempo que iria ficar na pista:  20 minutos/Tempo de Espera:  82 minutos
+Nome: 262  Idade: 41-> Tempo que iria ficar na pista:  27 minutos/Tempo de Espera:  82 minutos
+Nome: 263  Idade: 51-> Tempo que iria ficar na pista:  11 minutos/Tempo de Espera:  82 minutos
+Nome: 264  Idade: 14-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  82 minutos
+Nome: 265  Idade: 42-> Tempo que iria ficar na pista:  29 minutos/Tempo de Espera:  82 minutos
+Nome: 266  Idade: 52-> Tempo que iria ficar na pista:  13 minutos/Tempo de Espera:  82 minutos
+Nome: 267  Idade: 57-> Tempo que iria ficar na pista:  18 minutos/Tempo de Espera:  82 minutos
+Nome: 268  Idade: 48-> Tempo que iria ficar na pista:  10 minutos/Tempo de Espera:  82 minutos
+Nome: 269  Idade: 44-> Tempo que iria ficar na pista:  20 minutos/Tempo de Espera:  82 minutos
+Nome: 270  Idade: 21-> Tempo que iria ficar na pista:  12 minutos/Tempo de Espera:  82 minutos
+Nome: 271  Idade: 19-> Tempo que iria ficar na pista:  11 minutos/Tempo de Espera:  82 minutos
+Nome: 272  Idade: 55-> Tempo que iria ficar na pista:  14 minutos/Tempo de Espera:  82 minutos
+Nome: 273  Idade: 47-> Tempo que iria ficar na pista:  16 minutos/Tempo de Espera:  82 minutos
+Nome: 274  Idade: 37-> Tempo que iria ficar na pista:  21 minutos/Tempo de Espera:  82 minutos
+Nome: 275  Idade: 30-> Tempo que iria ficar na pista:  29 minutos/Tempo de Espera:  82 minutos
+Nome: 276  Idade: 39-> Tempo que iria ficar na pista:  23 minutos/Tempo de Espera:  82 minutos
  
-TEMPO MÉDIO DE ESPERA : 28 minutos
+TEMPO MÉDIO DE ESPERA : 32 minutos
    
 QUANTIDADE QUE CADA CAPACETE FOI UTILIZADO: 
 Capacete 0 usado 25
-Capacete 1 usado 26
-Capacete 2 usado 22
-Capacete 3 usado 25
-Capacete 4 usado 27
-Capacete 5 usado 23
-Capacete 6 usado 26
-Capacete 7 usado 25
-Capacete 8 usado 21
-Capacete 9 usado 22
+Capacete 1 usado 27
+Capacete 2 usado 25
+Capacete 3 usado 22
+Capacete 4 usado 24
+Capacete 5 usado 24
+Capacete 6 usado 22
+Capacete 7 usado 24
+Capacete 8 usado 23
+Capacete 9 usado 24
    
 QUANTIDADE QUE CADA KART FOI UTILIZADO: 
 Kart 0 usado 25
-Kart 1 usado 26
-Kart 2 usado 22
-Kart 3 usado 25
-Kart 4 usado 27
-Kart 5 usado 23
-Kart 6 usado 26
-Kart 7 usado 25
-Kart 8 usado 21
-Kart 9 usado 22
+Kart 1 usado 27
+Kart 2 usado 25
+Kart 3 usado 22
+Kart 4 usado 24
+Kart 5 usado 24
+Kart 6 usado 22
+Kart 7 usado 24
+Kart 8 usado 23
+Kart 9 usado 24
 --------------------FIM RELATÓRIO------------------
