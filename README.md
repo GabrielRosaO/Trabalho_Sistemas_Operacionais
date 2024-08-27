@@ -1,5 +1,6 @@
 # Trabalho_Sistemas_Operacionais
 Autores:
+
             Bruno Martins Alexandre - bmalexandre@inf.udpel.edu.br
             Gabriel Rosa de O. Silva - grosilva@inf.ufpel.edu.br
 
@@ -12,7 +13,10 @@ a descrição mais detalhada do projeto pode ser vista na "Etapa 1" do arquivo _
 ### Construção do projeto
 Nós optamos por utilizar da linguagem Java, devido a sua maneira nativa de implementação de threads.
 Criamos tres classes:  
+
 **Pessoa** -> Contém os dados e detalhes de cada pessoa (thread) que chega para a fila de espera, para entrar no kartódromo;
 **Tempo**  -> Contém os calculos de tempo para cada pessoa e piloto;
 **Kartodrómo** -> Contém todos os métodos e dados de recursos, pilotos e pessoas dentro do estabelecimento, assim como as filas de espera e pessoas correndo a todo o tempo.
+
+
 Ao final é gerado um arquivo "Relatório.txt" que armazena as informações de todo o período de 8 horas de funcionamento do dia.
