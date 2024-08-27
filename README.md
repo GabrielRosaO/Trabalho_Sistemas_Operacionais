@@ -1,7 +1,7 @@
 # Trabalho_Sistemas_Operacionais
 Autores:
-      Bruno Martins Alexandre - bmalexandre@inf.udpel.edu.br
-      Gabriel Rosa de O. Silva - grosilva@inf.ufpel.edu.br
+            Bruno Martins Alexandre - bmalexandre@inf.udpel.edu.br
+            Gabriel Rosa de O. Silva - grosilva@inf.ufpel.edu.br
 
 Nesse trabalho foi pedido que criassemos um programa (em C ou Java) que simulasse um dia agitado no estabelecimento de Kartódromo.
 No kartódromo temos disponíveis karts e capacetes para todos que chegam. Cada pessoa precisa utilizar um capacete e um kart para poder entrar na pista.
