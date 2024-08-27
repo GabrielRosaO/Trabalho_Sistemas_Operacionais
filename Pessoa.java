@@ -23,7 +23,7 @@ public class Pessoa{
         return this.nome;
     }
 
-    public int geTime(){
+    public int getTime(){
         return this.tempo;
     }
 
@@ -31,6 +31,7 @@ public class Pessoa{
         return this.idade;
     }
 
+    //Utiliza um capacete e, se ja estiver sendo usado ao chamar novamente o método, o capacete é liberado
     private void useCapacete(){
         if(this.kartodromo.getCapacetes() > 0){
             this.capacete = this.kartodromo.useCapacete();;
@@ -39,7 +40,7 @@ public class Pessoa{
             this.capacete = this.kartodromo.releaseCapacete(this.kart);
         }
     }
-
+    //Utiliza um kart e, se ja estiver sendo usado ao chamar novamente o método, o kart é liberado
     private void useKart(){
         if(this.kartodromo.getKarts() > 0){    
             this.kart = this.kartodromo.useKart();;
@@ -49,15 +50,14 @@ public class Pessoa{
         }
     }
 
-    public int getTime(){
-        return this.tempo;
-    }
-
+    //Indica a finalização da corrida da pessoa(thread) e libera o capacete e kart que está sendo utilizado
     public void finishRun(){
         this.capacete = this.kartodromo.releaseCapacete(this.kart);
         this.kart = this.kartodromo.releaseKart(this.kart);
     }
 
+    //Indica o inico da corrida. A pessoa(thread) só sai da fila e começa a corrida se existirem pelo menos 1 kart E um capacete livres
+    //Após a pessoa pegar os dois recursos ela é adicionada na pista do kartodromo
     public void startRun(){
         while(this.capacete == -1 && this.kart == -1){
             
@@ -73,6 +73,7 @@ public class Pessoa{
         this.kartodromo.addPilot(this.id);
     }
 
+    //Pega um número aleatório
     private int getRandomInt(int min, int max) {
         Random random = new Random();
         return random.nextInt(max - min) + min;

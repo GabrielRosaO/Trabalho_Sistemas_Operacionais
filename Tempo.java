@@ -7,20 +7,23 @@ public class Tempo {
         this.tempoDeEntrada = tempoDeEntrada;
     }
 
+    //Tempo de corrida total de cada pessoa
     public void setTempoDeCorrida(int tempo){
         this.tempoDeCorrida = tempo;
     }
 
+    //tempo total de espera de cada pessoa
     public void setTempoDeEspera(int tempo){
         this.tempoDeEspera = tempo - tempoDeEntrada;
     }
 
-    public int getTempoDeEspera(){
-        return tempoDeEspera;
-    }
-
+    //tempo em que a pessoa entrou na fila
     public void setTempoDeEntrada(int tempo){
         this.tempoDeEntrada = tempo;
+    }
+
+    public int getTempoDeEspera(){
+        return tempoDeEspera;
     }
 
     public int getTempoDeCorrida(){
@@ -29,9 +32,5 @@ public class Tempo {
 
     public int getTempoDeEntrada(){
         return tempoDeEntrada;
-    }
-    
-    public String toString(){
-        return "inicio (" + tempoDeEntrada + ") fim (" + tempoDeCorrida + ") tempo de espera (" + tempoDeEspera + ")";
     }
 }
