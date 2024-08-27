@@ -7,6 +7,7 @@ Autores:
 Nesse trabalho foi pedido que criassemos um programa (em C ou Java) que simulasse um dia agitado no estabelecimento de Kartódromo.
 No kartódromo temos disponíveis karts e capacetes para todos que chegam. Cada pessoa precisa utilizar um capacete e um kart para poder entrar na pista.
 O estabelecimento possui apenas 10 capacetes e 10 karts para todos os clientes.
+
 A ideia principal é que cada pessoa a entrar na pista seja uma thread, nos colocando em um ambiente de programação concorrente.
 a descrição mais detalhada do projeto pode ser vista na "Etapa 1" do arquivo _Trabalho SO.pdf_.
 
